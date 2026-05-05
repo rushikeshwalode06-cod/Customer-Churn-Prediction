@@ -8,6 +8,8 @@ Customer Churn Prediction project using Gaussian Naive Bayes. It analyzes featur
 This project focuses on predicting whether a customer will stay with a company or leave (churn) using Machine Learning. The model is built using the Gaussian Naive Bayes (GaussianNB) algorithm.
 Customer churn prediction helps businesses take proactive steps to retain customers and improve overall customer satisfaction.
 
+![ml](https://github.com/rushikeshwalode06-cod/Customer-Churn-Prediction/blob/main/Customer%20Churn.png?raw=true)
+
 ## 🎯 Objective
 To build a classification model that predicts:
 
