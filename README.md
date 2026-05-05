@@ -17,7 +17,9 @@ To build a classification model that predicts:
 ⚠️ Customer will leave
 
 ## 🧠 Machine Learning Model Used
-Gaussian Naive Bayes (GaussianNB)
+Gaussian Naive Bayes 
+
+![ml](https://github.com/rushikeshwalode06-cod/Customer-Churn-Prediction/blob/main/Customer%20Graph.png?raw=true)
 
 ## 📂 Dataset Features
 The model uses the following input features:
