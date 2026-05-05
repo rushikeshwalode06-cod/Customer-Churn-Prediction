@@ -1,0 +1,21 @@
+CustomerID,Gender,SeniorCitizen,Tenure,MonthlyCharges,Contract,PaymentMethod,InternetService,Churn
+1,Male,0,1,29.85,Month-to-month,Electronic check,DSL,Yes
+2,Female,0,34,56.95,One year,Mailed check,DSL,No
+3,Female,0,2,53.85,Month-to-month,Mailed check,DSL,Yes
+4,Male,0,45,42.30,One year,Bank transfer,DSL,No
+5,Male,0,2,70.70,Month-to-month,Electronic check,Fiber optic,Yes
+6,Female,0,8,99.65,Month-to-month,Electronic check,Fiber optic,Yes
+7,Male,0,22,89.10,One year,Credit card,Fiber optic,No
+8,Female,0,10,29.75,Month-to-month,Mailed check,DSL,No
+9,Female,1,28,104.80,Two year,Credit card,Fiber optic,No
+10,Male,0,62,56.15,Two year,Bank transfer,DSL,No
+11,Male,1,5,49.95,Month-to-month,Electronic check,DSL,Yes
+12,Female,0,15,20.25,One year,Mailed check,No,No
+13,Male,0,3,89.90,Month-to-month,Electronic check,Fiber optic,Yes
+14,Male,0,50,45.20,Two year,Bank transfer,DSL,No
+15,Female,1,1,75.35,Month-to-month,Electronic check,Fiber optic,Yes
+16,Female,0,30,64.50,One year,Credit card,DSL,No
+17,Male,0,12,84.00,Month-to-month,Electronic check,Fiber optic,Yes
+18,Female,0,72,25.00,Two year,Bank transfer,No,No
+19,Male,1,9,95.10,Month-to-month,Electronic check,Fiber optic,Yes
+20,Female,0,60,39.65,Two year,Credit card,DSL,No
